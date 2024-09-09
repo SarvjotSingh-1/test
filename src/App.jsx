@@ -76,6 +76,13 @@ function App() {
       <br />
       <br />
       <button onClick={decvalue}>Decrease value</button>
+      <h1>chai aur react</h1>
+      <h2>counter value: {counter}</h2>
+
+      <button onClick={addvalue}>Add value</button>
+      <br />
+      <br />
+      <button onClick={decvalue}>Decrease value</button>
     </>
   );
 }
